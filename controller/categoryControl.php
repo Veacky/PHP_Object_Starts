@@ -1,0 +1,3 @@
+<?php
+
+    $categories = Category::FindAll();
